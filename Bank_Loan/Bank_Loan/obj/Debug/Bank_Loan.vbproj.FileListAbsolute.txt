@@ -1,1 +1,11 @@
 G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\bin\Debug\Bank_Loan.exe.config
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\bin\Debug\Bank_Loan.exe
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\bin\Debug\Bank_Loan.pdb
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\bin\Debug\Bank_Loan.xml
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\obj\Debug\Bank_Loan.vbprojResolveAssemblyReference.cache
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\obj\Debug\Bank_Loan.Form1.resources
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\obj\Debug\Bank_Loan.Resources.resources
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\obj\Debug\Bank_Loan.vbproj.GenerateResource.Cache
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\obj\Debug\Bank_Loan.exe
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\obj\Debug\Bank_Loan.xml
+G:\ReacJs\Visual Basic\visualBasic\Bank_Loan\Bank_Loan\obj\Debug\Bank_Loan.pdb

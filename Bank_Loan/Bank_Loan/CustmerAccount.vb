@@ -1,23 +1,24 @@
-﻿Public Class CustmerAccount
+﻿Public Class CustomerAccount
+
     Inherits BankAccount
-    Private Hasloan As Boolean
-    Private LoanAmount As Decimal
+    Private _hasloan As Boolean
+    Private _loanAmount As Decimal
 
     Public Property CustomerLoan() As Decimal
         Get
-            Return LoanAmount
+            Return _loanAmount
         End Get
         Set(ByVal value As Decimal)
-            LoanAmount = value
+            _loanAmount = value
         End Set
     End Property
 
     Public Property LoanTaken() As Boolean
         Get
-            Return Hasloan
+            Return _hasloan
         End Get
         Set(ByVal value As Boolean)
-            Hasloan = value
+            _hasloan = value
         End Set
     End Property
 End Class
